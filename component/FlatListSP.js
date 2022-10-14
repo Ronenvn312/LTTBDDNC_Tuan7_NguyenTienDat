@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import { withNavigation } from 'react-navigation';
+// import { withNavigation } from 'react-navigation';
 import { TouchableOpacity, Image, Text, View, FlatList, Button, TextInput } from 'react-native';
 import { useRoute } from '@react-navigation/native';
 export default function FlatListSP({ navigation }) {
